@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (Never commit API keys!)
+.env
+.env.local
+.env.*.local
+
+# Temporary files & uploads
+uploads/
+*.tmp
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE configuration
+.vscode/
+.idea/

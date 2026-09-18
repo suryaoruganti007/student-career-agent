@@ -1,0 +1,52 @@
+Alex Rivera
+Email: alex.rivera@student.univ.edu | Phone: +1 (555) 492-8819
+LinkedIn: linkedin.com/in/alex-rivera-cs | GitHub: github.com/alexrivera-dev
+Location: San Francisco, CA (Open to Remote / Relocation)
+
+EDUCATION
+Bachelor of Science in Computer Science | Minor in Data Science
+University of California, Tech Campus
+Expected Graduation: May 2026 | GPA: 3.78 / 4.0
+Relevant Coursework: Data Structures & Algorithms, Database Management Systems, Web Development, Machine Learning Fundamentals, Cloud Computing, Object-Oriented Programming.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, JavaScript (ES6+), TypeScript, SQL, HTML5, CSS3, C++
+- Frameworks & Libraries: React.js, Node.js, Express.js, Next.js, Pandas, NumPy, Scikit-Learn, Tailwind CSS, Bootstrap
+- Databases & Tools: PostgreSQL, MongoDB, MySQL, Git, GitHub, Docker (Basics), Postman, Linux/Bash, VS Code
+- Core Competencies: RESTful API Design, Full-Stack Development, Data Analysis, Responsive UI, Unit Testing, Agile/Scrum
+
+EXPERIENCE & INTERNSHIPS
+Software Engineering Intern | NexaSphere Technologies
+June 2024 – August 2024 | San Jose, CA
+- Developed and maintained responsive front-end components using React.js and TypeScript for a B2B analytics portal serving 12,000+ daily active users.
+- Built 6 RESTful API endpoints using Node.js and Express to query customer metrics from PostgreSQL, reducing query latency by 28% through indexing.
+- Collaborated in a 5-engineer Agile sprint team, participating in daily standups, peer code reviews, and Git feature-branch workflows.
+- Wrote Jest unit tests achieving 82% code coverage across new UI components.
+
+PROJECTS
+1. SmartSpend – AI-Assisted Personal Budgeting Web App
+Tech Stack: React, Node.js, Express, MongoDB, Chart.js, JWT
+- Engineered a full-stack personal finance application enabling students to track expenses, manage budgets, and visualize monthly spending habits.
+- Implemented secure JWT user authentication with role-based access control and bcrypt password hashing.
+- Integrated automated CSV transaction parsing and dynamic data visualizations using Chart.js.
+
+2. Campus Career & Placement Predictor
+Tech Stack: Python, Pandas, Scikit-Learn, Streamlit, Matplotlib
+- Developed a supervised machine learning model using Random Forest and Logistic Regression on 2,500+ student academic and internship records to predict job placement probability with 85.4% accuracy.
+- Built an interactive Streamlit web dashboard allowing university career advisors to evaluate student readiness and identify skill gaps.
+- Conducted exploratory data analysis (EDA) and feature importance analysis to highlight top placement drivers.
+
+3. Campus Event Finder (Open Source Project)
+Tech Stack: JavaScript, Tailwind CSS, Firebase, Express
+- Built a localized university event discovery platform with real-time RSVP updates using Firebase Firestore.
+- Implemented search, filtering by category, and calendar synchronization.
+
+CERTIFICATIONS
+- Meta Front-End Developer Professional Certificate – Coursera (2024)
+- Python for Data Science and Machine Learning – Udemy (2023)
+- AWS Certified Cloud Practitioner (In Progress - Target: Nov 2025)
+
+HONORS & LEADERSHIP
+- Finalist, Collegiate Hackathon 2024 (Top 8 out of 120+ teams for developing an accessible campus navigation app)
+- Technical Lead, Student Developer Club (Conducted weekly web development workshops for 45+ junior students)
+- Solved 280+ coding problems on LeetCode (Focus: Arrays, Trees, Dynamic Programming)

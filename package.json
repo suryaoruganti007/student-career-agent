@@ -1,0 +1,27 @@
+{
+  "name": "student-career-resume-agent",
+  "version": "1.0.0",
+  "description": "AI-powered Career & Resume Agent for Students using OpenRouter API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "career-agent",
+    "resume-analyzer",
+    "openrouter",
+    "ai",
+    "student-career"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mammoth": "^1.8.0",
+    "multer": "^1.4.5-lts.1",
+    "pdf-parse": "^1.1.1"
+  }
+}
